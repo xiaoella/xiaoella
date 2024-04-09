@@ -3,7 +3,7 @@
 
 This is my `coding journey` so far as a Data Science student at CoGrammar + HyperionDev.
 
-Previously worked as architect, I made the decision to pursue this career so that I could leverage my analytical skills and creativity to solve complex problems using logical, data-driven approaches. 
+Coming from a background as an architect, I made the decision to pursue this career so that I could leverage my analytical skills and creativity to solve complex problems using logical, data-driven approaches. 
 
 - 🌱 I’m currently learning Python, C and SQL
 - 🍳 I’m also working on some personal projects    <sub>_keep your eyes peeled_<sub>
