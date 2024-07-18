@@ -3,8 +3,9 @@
 
 This is my `coding journey` so far...
 
-Coming from a background as an architect, I made the decision to pursue this career so that I could leverage my analytical skills and creativity to solve complex problems using logical, data-driven approaches. 
+I am passionate in leveraging my strong problem-solving skills and delivering data-driven solutions to complex problems, from a creative as well as logical approach.
 
-- 🌱 I’m currently learning Python, C and SQL
-- 🍳 I’m also working on some personal projects    <sub>_check out my repos!_<sub>
-- 🙋🏻‍♀️ Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/xiao-ella-ma/)!
+- 🌱 I use Python, but also enjoy solving code challenges in C and SQL.
+- 🍳 I’m curently working on some personal projects such as this one: [Finding my Laura Ashely](https://github.com/xiaoella/find_my_laura_ashley)  <sub>_and check out my other repos!_<sub>
+- 📐 Fun fact: I have a background... as an architect!
+- 🤝 Please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/xiao-ella-ma/)!
